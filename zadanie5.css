@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    margin-left: 50px;
+  }
+  
+  table, td, th {
+    border: 1px solid black;
+  }
+
+  
+th {
+  font-style: italic;
+  font-weight: bold;
+  padding: 10px;
+}
+
+  td {
+    text-align: center;
+    padding: 10px;
+  }
+
+  button {
+    background-color: white; 
+    color: grey; 
+    border: 2px solid black;
+    padding: 5px;
+    margin-left:50px;
+    margin-top: 30px;
+    cursor: pointer;
+    height: 15%;
+  }
+
+  button:hover {
+    background-color: #e7e7e7;
+    color: black;
+  }
