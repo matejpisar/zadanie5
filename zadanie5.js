@@ -16,6 +16,6 @@ function tabulka() {
         table += '</tr>';
       }
 
-      document.getElementById("demo").innerHTML = table;
+      document.getElementById("tabulka").innerHTML = table;
     })
 };
